@@ -1,4 +1,4 @@
-![PsychionalEngineLogo](docs/img/ChatGPT Image 14 de fev. de 2026, 16_10_04.png)
+![PsychionalEngineLogo](docs/img/PsychEngineLogoTweak.png)
 
 Engine originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
 
